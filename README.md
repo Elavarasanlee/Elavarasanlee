@@ -30,6 +30,5 @@ I am Elavarasan Muthuvlavan! You can call me ✨ **_Lee_** ✨
 
 ### 📫 How to reach me:
 - 📧 Email: elavarasan.2703@gmail.com
-- 📱 Mobile: +91 8050545103
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a tech chat!
