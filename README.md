@@ -2,13 +2,18 @@
 
 I am Elavarasan Muthuvlavan! You can call me ✨ **_Lee_** ✨ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elavarasanlee&label=Profile%20views&color=0e75b6&style=flat" alt="ElavarasanLee" /> </p>
-
 ## 💻 Tech Lead | Web UI/UX Engineer | Full Stack Developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elavarasanlee&label=Profile%20views&color=0e75b6&style=flat" alt="ElavarasanLee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elavarasanlee" alt="Elavarasanlee" /></a> </p>
 
 <p align="left"> <a href="https://stackexchange.com/users/1778507/elavarasan-lee"><img src="https://stackexchange.com/users/flair/1778507.png" width="208" height="58" alt="profile for elavarasan lee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for elavarasan lee on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> </p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elavarasanlee&show_icons=true&locale=en" alt="Elavarasanlee" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elavarasanlee&" alt="Elavarasanlee"/></p>
+
 
 ### 🔧 Skills & Expertise:
 - Frontend: Angular, React.js, NextJS, TypeScript, JavaScript
@@ -33,4 +38,3 @@ I am Elavarasan Muthuvlavan! You can call me ✨ **_Lee_** ✨
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a tech chat!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elavarasanlee&" alt="Elavarasanlee"/></p>
