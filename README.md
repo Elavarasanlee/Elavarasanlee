@@ -32,3 +32,5 @@ I am Elavarasan Muthuvlavan! You can call me ✨ **_Lee_** ✨
 - 📧 Email: elavarasan.2703@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a tech chat!
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elavarasanlee&" alt="Elavarasanlee"/></p>
